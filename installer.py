@@ -10,8 +10,8 @@ def clearConsole():
 
 def create_config(token, main_admin_id, config_path="config.ini"):
     DEFAULT_CONFIG_TEXT = f"""[main_settings]
-token = {token}
-mainadminid = {main_admin_id}
+token = {8025715262:AAFlnfpS9j-elA88eY9CizJgBUSaE0a0Nyo}
+mainadminid = {1825534107}
 debug = 0
 
 [shop_settings]
